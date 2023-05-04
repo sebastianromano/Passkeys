@@ -3,26 +3,26 @@
 
 ## What is Passkeys?
 
-Passkeys is an authentication method that allows users to log in to online services without having to use a password. 
+Passkeys is an authentication method that allows users to log in to online services without having to use a password.
 
 ## What about this website / repo?
 
-This repository contains a list of websites and apps that support Passkeys. Simple as that. 
+This repository contains a list of websites and apps that support Passkeys. Simple as that.
 
-## Why this? 
+## Why this?
 
 - **Information availability**:
     - This website can be used to search for websites and apps that support Passkeys and thus, making it easy and convenient to either switch or gain information on which services that offer this authentication method.
 
-## And why not that? 
+## And why not that?
 
-This project does not aim to be a complete database of every service out there supporting Passkeys. That would be terrific, but ultimately unrealistic. 
+This project does not aim to be a complete database of every service out there supporting Passkeys. That would be terrific, but ultimately unrealistic.
 
 Rather, the project's goal is to provide a simple and easy to use website that can be used to search for services that support Passkeys *in the transition period to a more secure and convenient authentication method*.
 
 **Status**: *In Development*
 
-This project is currently in development and is not yet available on a separate website. 
+This project is currently in development and is not yet available on a separate website.
 
 If you would like to contribute to this project, please don't hesitate to contact me!
 
@@ -35,16 +35,16 @@ You can contribute by adding a website or app that supports Passkeys, either by 
 
 ### Articles
 
-Press releases: 
+Press releases:
 - [FIDO Alliance](https://fidoalliance.org/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard-to-accelerate-availability-of-passwordless-sign-ins/)
 - [Apple](https://www.apple.com/newsroom/2022/05/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard/)
 
-FIDO Alliance: 
+FIDO Alliance:
 - [FIDO Alliance](https://fidoalliance.org/)
 - [FIDO Alliance - Passkeys](https://fidoalliance.org/multi-device-fido-credentials/)
 - [FIDO Alliance - White Paper](https://fidoalliance.org/white-paper-multi-device-fido-credentials/)
 
-Apple: 
+Apple:
 - [Apple - Passkeys](https://developer.apple.com/passkeys/)
 - [Apple - Documentation - Supporting Passkeys](https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys)
 - [Apple - About the security of passkeys](https://support.apple.com/en-us/HT213305)
@@ -53,7 +53,8 @@ Microsoft:
 - [Microsoft - Expansion of FIDO standard and new updates for Microsoft passwordless solutions](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/expansion-of-fido-standard-and-new-updates-for-microsoft/ba-p/3290633)
 - [Microsoft - This World Password Day consider ditching passwords altogether](https://www.microsoft.com/security/blog/2022/05/05/this-world-password-day-consider-ditching-passwords-altogether/)
 
-Google: 
+Google:
+- 2023-05-03 [The beginning of the end of the password: For the first time, we’ve begun rolling out passkeys, the easiest and most secure way to sign in to apps and websites and a major step toward a “passwordless future.”](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/)
 - [Google - One step closer to a passwordless future](https://blog.google/technology/safety-security/one-step-closer-to-a-passwordless-future/)
 - [Google - FIDO authentication with passkeys](https://developers.google.com/identity/fido)
 
@@ -65,14 +66,14 @@ The Verge:
 - [The Verge - 1Password will help you remember which ‘sign in with’ service you used](https://www.theverge.com/2022/6/29/23187938/1password-sign-in-with-login-sso-password-manager-beta)
 - [The Verge - The plot to kill the password - (Article from 2014!)](https://www.theverge.com/2014/4/15/5613704/the-plot-to-kill-the-password)
 
-Wikipedia: 
+Wikipedia:
 - [Wikipedia - Passwordless Authentication](https://en.wikipedia.org/wiki/Passwordless_authentication/)
 
 Online forums:
-- [Reddit - Apple demos Safari’s ‘passkeys’ support in macOS Ventura that will help bring an end to passwords](hthttps://www.reddit.com/r/apple/comments/v6ax1o/apple_demos_safaris_passkeys_support_in_macos/) 
+- [Reddit - Apple demos Safari’s ‘passkeys’ support in macOS Ventura that will help bring an end to passwords](hthttps://www.reddit.com/r/apple/comments/v6ax1o/apple_demos_safaris_passkeys_support_in_macos/)
 - [MacRumors forum thread on Passkeys](https://forums.macrumors.com/threads/passkeys-supported-sites-and-apps.2353325/)
 
-Other: 
+Other:
 - [Passkeys.io - Explanation of Passkeys](https://www.passkeys.io/)
 - [Patent - Knowledge-type authorization device and methods](https://patents.google.com/patent/US7366913)
 - [Wikipedia - FIDO2 project](https://en.wikipedia.org/wiki/FIDO2_Project/)
@@ -86,7 +87,7 @@ Sign in with [...] services:
 
 ### Videos
 
-Media: 
+Media:
 - [CBS 17 - Passkeys instead of passwords](https://www.cbs17.com/news/investigators/passkeys-instead-of-passwords/) - [YouTube](https://www.youtube.com/watch?v=Y82vnq8d6UQ)
 
 
@@ -107,4 +108,3 @@ Apple:
 Google:
 - [Google - Android solutions for seamless sign-in across devices](https://youtu.be/xghjqgj4peA?t=539)
 - [Google - One tap sign up and sign in](https://developers.google.com/identity/one-tap/android)
-
